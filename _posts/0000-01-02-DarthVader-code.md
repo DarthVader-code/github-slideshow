@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 mcVader!
-Use the left arrow to go back!
+You can use the left arrow to go back! He-he!
